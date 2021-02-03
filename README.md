@@ -1,6 +1,8 @@
 
 # League-Of-Runas
 
+#react-native
+
 Com o League of Runas, você cria sua pagina de Runas guia e ainda pode ver informações detalhadas de cada Runa.
 
 link Youtube https://youtu.be/HMrKS2EAHxQ
