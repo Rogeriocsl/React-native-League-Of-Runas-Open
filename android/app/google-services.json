@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "678538347246",
+    "firebase_url": "https://league-of-runas.firebaseio.com",
+    "project_id": "league-of-runas",
+    "storage_bucket": "league-of-runas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678538347246:android:0eb81974d7c1751c",
+        "android_client_info": {
+          "package_name": "com.lolr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678538347246-2l49mcb2gsg69rlsocn099hhh13584bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lolr",
+            "certificate_hash": "1e2a8b0d5418b5d50d858a64e5fd8522e353b09d"
+          }
+        },
+        {
+          "client_id": "678538347246-k6c2r9h75p1c020744be3554omqdbpco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lolr",
+            "certificate_hash": "4813974e3c3159e65fa9a53f087a982d6e6abeb3"
+          }
+        },
+        {
+          "client_id": "678538347246-l8l930iqvq577cbv8tmud7hqska1spca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lolr",
+            "certificate_hash": "d2a29a5d0a6f39f1e8719bb72cd927e74e257b5f"
+          }
+        },
+        {
+          "client_id": "678538347246-551cl5pmiv3nggc65nb04ua5qpvk2k7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwk8DUFMxx-hprJFEFi8RsxWbsVBBkes4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678538347246-551cl5pmiv3nggc65nb04ua5qpvk2k7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-1942019449408433~3020814584"
+    }
+  ],
+  "configuration_version": "1"
+}

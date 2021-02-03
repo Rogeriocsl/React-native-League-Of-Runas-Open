@@ -1,0 +1,70 @@
+Dominação
+Dano explosivo e acesso ao alvo
+
+Eletrocutar
+Acertar um Campeão com 3 ataques ou habilidades separadas em até 3s causa Dano Adaptativo adicional.
+Dano: 50 - 220 (+0.50 de DdA adicional, +0.3 de PdH) de dano.
+Tempo de Recarga: 50 - 25s
+
+Predador
+Encanta suas botas com o efeito ativo 'Predador.'
+Canalize por 1,5s fora de combate para receber 45% de Velocidade de Movimento por 15s. Ataques ou habilidades que causam dano encerram esse efeito, causando de 60 a 140 (+0,2 DdA adicional)(+0,3 PdH) de dano adaptativo adicional.
+Tempo de Recarga: 180s. Inicia o jogo em Tempo de Recarga e entra em Tempo de Recarga se for interrompido durante a canalização.
+
+Colheita Sombria
+Campeões, tropas grandes e monstros grandes deixam essências de alma ao morrer. Colete almas para ficar com Alma Carregada. Seu próximo ataque a um Campeão ou estrutura consome a Alma Carregada para causar Dano Adaptativo adicional.
+A Alma Carregada dura 20s, aumentando para 300s após coletar 150 essência(s) de alma.
+Dano adicional: de 40 a 80 (+0.25 de DdA adicional) (+0.2 de PdH) + essências de alma coletadas.
+Campeões - 6 de essência de alma.
+Monstros - 2 de essência de alma.
+Tropas - 4 de essência de alma.
+
+Chuva de Lâminas
+Recebe 75% - 125% de Velocidade de Ataque nos primeiros 3 ataques contra Campeões inimigos. Caso o intervalo entre os ataques supere 2s, o
+efeito acabará. Chuva de Lâminas permite exceder temporariamente o limite de Velocidade de Ataque. Tempo de Recarga: 4s fora de combate.
+
+Golpe Desleal
+Causar dano a Campeões com movimento ou ações debilitadas causa 12 - 30 de Dano Verdadeiro adicional (com base no nível).
+Tempo de Recarga: 4s
+É ativado pelo dano causado após a debilitação.
+
+Gosto de Sangue
+Cura ao causar dano a um Campeão inimigo.
+Cura: 18-35 (+0.20 de DdA adicional, +0.1 de PdH) de Vida (com base no nível).
+Tempo de Recarga: 20 s
+
+Impacto Repentino
+Depois de sair da furtividade ou usar um avanço, salto, teletransporte ou teleporte, causar dano a um Campeão concede 10 de Letalidade e 8 de Penetração Mágica por 5s.
+Tempo de Recarga: 4s
+
+Sentinela Zumbi
+Ao abater uma sentinela, uma Sentinela Zumbi aliada surge em seu lugar. Além disso, quando suas sentinelas expiram, elas ressuscitam como Sentinelas Zumbis.
+As Sentinelas Zumbis são visíveis, duram 180s e não afetam seu limite de sentinelas.
+
+Poro Fantasma
+Entre em um arbusto para invocar um Poro depois de uma breve canalização. O Poro ficará para trás para conceder visão até que você invoque um novo.
+Se um inimigo entrar em um arbusto com um Poro, ele o assusta, colocando Poro Fantasma em 3s de Tempo de Recarga.
+A canalização do Poro é interrompida se você entrar em combate com um Campeão.
+
+Globos Oculares
+Coleta Globos Oculares ao abater Campeões e sentinelas. Concede um adicional adaptativo de 0.6 de Dano de Ataque ou 1 de Poder de Habilidade por Globo Ocular coletado.
+Após completar sua coleção de 20 Globos Oculares, você ganha um adicional de um adicional adaptativo de 6 de Dano de Ataque ou 10 de Poder de Habilidade
+Coleta 2 Globos Oculares por abates de Campeões e 1 Globos Oculares por abate de sentinela.
+
+Caça Ardilosa
+Recebe 10% de RTR de itens ativos mais 6% por acúmulo de Caçando Recompensas (inclui Amuletos).
+Recebe um acúmulo de Caçando Recompensas sempre que abater um Campeão inimigo pela primeira vez.
+
+Caça Voraz
+Cura um percentual do dano que você causa com suas habilidades.
+Cura: 2.5% + 2.5% por acúmulo de Caçando Recompensas.
+Recebe um acúmulo de Caçando Recompensas sempre que abater um Campeão inimigo pela primeira vez.
+Cura reduzida a um terço para habilidades de área de ação.
+
+Caça Incansável
+Recebe 8 de Velocidade de Movimento fora de combate mais 8 por acúmulo de Caçando Recompensas.
+Recebe um acúmulo de Caçando Recompensas sempre que abater um Campeão inimigo pela primeira vez.
+
+Caça Suprema
+Sua ultimate recebe 5% de Tempo de Recarga reduzido, mais 2% adicional por acúmulo de Caçador de Recompensas.
+Acúmulos de Caçador de Recompensassão recebidos na primeira vez que você conseguir um abate em cada Campeão inimigo.

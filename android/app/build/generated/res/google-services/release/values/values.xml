@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">678538347246-551cl5pmiv3nggc65nb04ua5qpvk2k7r.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://league-of-runas.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">678538347246</string>
+    <string name="google_api_key" translatable="false">AIzaSyDwk8DUFMxx-hprJFEFi8RsxWbsVBBkes4</string>
+    <string name="google_app_id" translatable="false">1:678538347246:android:0eb81974d7c1751c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDwk8DUFMxx-hprJFEFi8RsxWbsVBBkes4</string>
+    <string name="google_storage_bucket" translatable="false">league-of-runas.appspot.com</string>
+    <string name="project_id" translatable="false">league-of-runas</string>
+</resources>
