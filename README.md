@@ -1,7 +1,11 @@
 
 # League-Of-Runas
 
-Com o League of Runas, você cria sua pagina de Runas guia e ainda pode ver informações detalhadas de cada Runa
+Com o League of Runas, você cria sua pagina de Runas guia e ainda pode ver informações detalhadas de cada Runa.
+
+link Youtube https://youtu.be/HMrKS2EAHxQ
+
+link-Android https://play.google.com/store/apps/details?id=com.lolr&hl=pt_BR&gl=US
 
 ![AnyConv com__unnamed](https://user-images.githubusercontent.com/22603774/106675548-0e097c80-6594-11eb-9e82-d452787bca56.png)
 ![AnyConv com__unnamed (1)](https://user-images.githubusercontent.com/22603774/106675557-11046d00-6594-11eb-9799-0f01294942c3.png)
@@ -15,6 +19,3 @@ Com o League of Runas, você cria sua pagina de Runas guia e ainda pode ver info
 
 
 
-link Youtube https://youtu.be/HMrKS2EAHxQ
-
-link-Android https://play.google.com/store/apps/details?id=com.lolr&hl=pt_BR&gl=US
